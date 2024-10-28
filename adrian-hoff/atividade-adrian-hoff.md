@@ -29,3 +29,5 @@
 - **Padrões Observados:** Os commits seguem um padrão direto e descritivo, geralmente em inglês, facilitando a revisão e compreensão do histórico. As branches são organizadas para diferentes propósitos, com a principal reservada para versões estáveis.
 
 - **Observação:** Diferente da abordagem ensinada na oficina, o repositório principal do Linux não recebe commits diretos dos colaboradores. Em vez disso, contribuições são feitas via patches enviados por email - sim, por email - onde são revisados antes de serem incorporados, garantindo maior controle e qualidade do código.
+
+<!-- Esse comentário foi adicionado em uma versão para pull request -->
