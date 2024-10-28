@@ -11,5 +11,6 @@
 
 ### Outras Informações
 - **Ano de Ingresso:** 2024
+- **Ano Previsto de Conclusão:** 2028
 - **Período Atual:** 1º semestre
 - **Outro Interesses Acadêmicos:** Filosofia, idiomas, história, sociologia, música e artes.
